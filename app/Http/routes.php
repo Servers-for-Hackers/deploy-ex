@@ -25,7 +25,3 @@ Route::get('/test', function()
     Return Request::header();
 });
 
-Route::get('/deployed', function(){
-    return "new route!";
-});
-
