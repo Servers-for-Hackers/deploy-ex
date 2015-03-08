@@ -28,3 +28,4 @@ Route::get('/test', function()
 Route::get('/deployed', function(){
     return "new route!";
 });
+
